@@ -1,4 +1,4 @@
 name: "Config"
 
 paths-ignore:
-  - '**/test/'
+    - '**/tests'
